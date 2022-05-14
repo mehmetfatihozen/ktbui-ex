@@ -1,0 +1,11 @@
+<template>
+<div>
+  USERS
+</div>
+</template>
+
+<script>
+export default {
+
+}
+</script>
